@@ -31,8 +31,6 @@
 &nbsp;
 <code><img width="4%" src="https://huongdanjava.com/wp-content/uploads/2018/01/spring-data.png"></code>
 &nbsp;
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg"></code>
-&nbsp;
 <code><img width="4%" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
@@ -42,6 +40,10 @@
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+&nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></code>
+&nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
 &nbsp;
