@@ -29,6 +29,8 @@
 &nbsp;
 <code><img width="4%" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png"></code>
 &nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+&nbsp;
 <code><img width="4%" src="https://huongdanjava.com/wp-content/uploads/2018/01/spring-data.png"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg"></code>
@@ -40,8 +42,6 @@
 <code><img width="4%" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
-&nbsp;
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 &nbsp;
