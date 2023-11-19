@@ -58,6 +58,11 @@
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+&nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+&nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
+</p>
 </p>
 
 <p align="center">
