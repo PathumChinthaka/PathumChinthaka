@@ -2,7 +2,7 @@
 
 - ⚡ I'm a student.
 - 🔭 I’m currently working on fullstack-web-development projects
-- 🌱 I’m currently learning amazing things such as Spring Boot , .Net , React and Angular  
+- 🌱 I’m currently learning amazing things such as Spring Boot | .Net | React and Angular  
 - 💬 Ask me about MERN stack
 
 
