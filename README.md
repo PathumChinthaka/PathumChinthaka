@@ -1,8 +1,8 @@
 <h2>Hi 👋, I'am Pathum chinthaka</h2>   
 
-- ⚡ I'm a student.
+- ⚡ I'm a Full-stack developer.
 - 🔭 I’m currently working on fullstack-web-development projects
-- 🌱 I’m currently learning amazing things such as Spring Boot | .Net | React | Angular  
+- 🌱 I’m currently learning amazing things such as Spring Boot | .Net | React   
 - 💬 Ask me about MERN stack
 
 
