@@ -39,6 +39,8 @@
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
 &nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
+&nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></code>
