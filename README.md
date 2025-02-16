@@ -2,7 +2,7 @@
 
 - ⚡ I'm a Full-stack developer
 - 🧑‍💻 I’m currently working as a Associate software engineer at Intellimorph.ai
-- 🌱 I’m currently learning amazing things such as Spring Boot | .Net | React   
+- 🌱 I’m currently learning amazing things such as Spring Boot | .Net | React | Nextjs   
 - 💬 Ask me about MERN stack
 
 
@@ -48,6 +48,12 @@
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+&nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg"></code>
+&nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
+&nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 &nbsp;
