@@ -49,11 +49,11 @@
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
 &nbsp;
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg"></code>
 &nbsp;
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"></code>
 &nbsp;
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 &nbsp;
