@@ -4,6 +4,7 @@
 - 🧑‍💻 I’m currently working as a Associate software engineer at Intellimorph.ai
 - 🌱 I’m currently learning amazing things such as Spring Boot | .Net | React | Nextjs   
 - 💬 Ask me about MERN stack
+- 💜 Connect with me - https://pathum-chinthaka.vercel.app/
 
 
 <p  align="center">
