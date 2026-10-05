@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'am Pathum chinthaka</h2>   
 
 - ⚡ I'm a Full-stack developer
-- 🧑‍💻 I’m currently working as a Associate software engineer at Intellimorph.ai
+- 🧑‍💻 I’m currently working as a Associate software engineer at Quantum Foundry.
 - 🌱 I’m currently learning amazing things such as Spring Boot | .Net | React | Nextjs   
 - 💬 Ask me about MERN stack
 - 💜 Connect with me - https://pathum-chinthaka.vercel.app/
